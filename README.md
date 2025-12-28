@@ -1,5 +1,6 @@
 # VRM-Fur-Shell-Texturing
 Blender plug-in to automatically add fake fur, AKA shell texturing, to your VRM models. Select materials to use it on and it'll do it easily. It works for hair, fur, and more, and was made for VRoid models, but should work on any VRM model in theory.
+
 Blenderプラグインで、VRMモデルにフェイクファー（別名シェルテクスチャリング）を自動追加。適用するマテリアルを選択するだけで簡単に処理できます。髪や毛皮などに対応し、VRoidモデル向けに作成されましたが、理論上はあらゆるVRMモデルで動作するはずです。
 
 <img width="3172" height="2018" alt="image" src="https://github.com/user-attachments/assets/13c12894-746c-4505-aeec-01921c5ae37d" />
